@@ -10,6 +10,7 @@ Vue.js adalah sebuah kerangka kerja untuk membuat antarmuka pengguna yang dibang
 
 #### Apa itu Komponen prop dalam Vue.js ?
 Komponen Prop adalah cara untuk mengirimkan data dari komponen induk ke komponen anak dalam Vue.js. Sebuah komponen dapat memiliki sebanyak mungkin prop yang diperlukan.
+
 [![Visual prop](https://stopbyte.com/uploads/default/original/1X/f822160a43e6ad9aafe62eed9c407a7bf3df388a.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstopbyte.com%2Ft%2Fhow-to-pass-data-to-a-child-component-in-vuejs%2F983&psig=AOvVaw2EiPzQp88kwFwMAo0wZRVy&ust=1718855779254000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKie2qPj5oYDFQAAAAAdAAAAABAK)
 
 
