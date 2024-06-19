@@ -1,5 +1,5 @@
 
-# Vue
+# Vue.js
 
 Vue adalah sebuah kerangka kerja (framework) JavaScript yang digunakan untuk membangun antarmuka pengguna (user interfaces). Vue.js membantu pengembang dalam membuat bagian visual dari sebuah aplikasi web. Kerangka kerja ini menggunakan teknologi dasar web seperti HTML (HyperText Markup Language), CSS (Cascading Style Sheets), dan JavaScript.
 
@@ -14,7 +14,7 @@ Komponen Prop adalah cara untuk mengirimkan data dari komponen induk ke komponen
 [![Visual prop](https://stopbyte.com/uploads/default/original/1X/f822160a43e6ad9aafe62eed9c407a7bf3df388a.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstopbyte.com%2Ft%2Fhow-to-pass-data-to-a-child-component-in-vuejs%2F983&psig=AOvVaw2EiPzQp88kwFwMAo0wZRVy&ust=1718855779254000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKie2qPj5oYDFQAAAAAdAAAAABAK)
 
 
-#### Di Vue.js, apa yang dimaksud dengan reaktivitas ?
+#### Di Vue.js apa yang dimaksud dengan reaktivitas ?
 Ketika Anda mengubah nilai data, halaman akan diperbarui untuk mencerminkan perubahan tersebut. Properti data dan
 properti yang dihitung di Vue bersifat reaktif.
 [![Visual reaktif](https://v1.vuejs.org/images/data.png)](https://v1.vuejs.org/guide/reactivity.html)
